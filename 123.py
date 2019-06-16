@@ -1,2 +1,3 @@
 num = 2
-我是zhangsan
+我是经理
+
